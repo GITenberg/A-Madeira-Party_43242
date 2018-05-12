@@ -1,0 +1,32 @@
+_repo: A-Madeira-Party_43242
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43242-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Mitchell, S. Weir (Silas Weir)
+    aliases:
+    - Mitchell, Weir
+    - Mitchell, Silas Weir
+    birthdate: 1829
+    deathdate: 1914
+    gutenberg_agent_id: '357'
+    url: http://www.gutenberg.org/2009/agents/357
+    wikipedia: http://en.wikipedia.org/wiki/Silas_Weir_Mitchell
+description: ''
+gutenberg_issued: '2013-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Philadelphia (Pa.) -- History -- 19th century -- Fiction'
+- !lcsh 'Paris (France) -- History -- 19th century -- Fiction'
+tableOfContents: A Madeira party -- "A little more Burgundy."
+title: A Madeira Party
+url: http://www.gutenberg.org/ebooks/43242
